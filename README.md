@@ -7,7 +7,7 @@ It consists of three python notebooks, which provide a basic introduction into p
 
 The introductory material in this repository comes from material from the Research Hub of UNC's Davis Library.
 
-##Purpose
+## Purpose
 
 The raw data of this repository, County-Health-Data.csv, describes "Health Data" for counties in the United States. It is additionally organized by State and Region, and its contents thoroughly cover many health related issues and data that can be used to draw conclusions about the comparative health of different areas of the U.S.
 
@@ -19,6 +19,6 @@ The filtered data removes extraneous information and highlights simply the low b
 
 This repository was created so that others might be aware of health issues that are more or less prevalent in their state than nationally. Others are encouraged to follow the instructional and example files within this repository to look at specific issues that they think their state or county might have.
 
-##Contents
+## Contents
 
 The repository is organized by seperating the Pandas introduction files into their own folder, Pandas intro, with the raw data, data filtering process, and filtered data without a folder for now.
