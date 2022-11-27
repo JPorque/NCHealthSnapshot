@@ -22,3 +22,10 @@ This repository was created so that others might be aware of health issues that 
 ## Contents
 
 The repository is organized by seperating the Pandas introduction files into their own folder, Pandas intro, with the raw data, data filtering process, and filtered data without a folder for now.
+
+Below is a link to a map of North Carolina with the low birthweight data displayed next to each county marker. The points on the map are also color coded to show the differences between counties at a glance.
+https://www.google.com/maps/d/u/0/edit?mid=1DnlwG0TQu0GX3HVpKuki7unlQf7LM2k&usp=sharing
+
+The table with the data used for the map above can be found here:
+<iframe title="Percentage of children with a low birthweight, by NC county (Copy)" aria-label="Table" id="datawrapper-chart-QLs2V" src="https://datawrapper.dwcdn.net/QLs2V/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="732" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
