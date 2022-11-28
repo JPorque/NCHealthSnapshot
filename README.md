@@ -5,7 +5,7 @@ This repository contains my project for the third unit of the ENGL105 course at 
 
 It consists of three python notebooks, which provide a basic introduction into python and the filtering of data, as well as a raw data and filtered data file.
 
-The introductory material in this repository comes from material from the [Research Hub](#https://library.unc.edu/data/) of UNC's Davis Library.
+The introductory material in this repository comes from material from the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library.
 
 ## Purpose
 
