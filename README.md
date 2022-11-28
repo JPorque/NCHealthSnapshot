@@ -23,9 +23,8 @@ This repository was created so that others might be aware of health issues that 
 
 The repository is organized by seperating the Pandas introduction files into their own folder, Pandas intro, with the raw data, data filtering process, and filtered data without a folder for now.
 
-Below is a link to a map of North Carolina with the low birthweight data displayed next to each county marker. The points on the map are also color coded to show the differences between counties at a glance.
+Below is a map of North Carolina with the low birthweight data displayed next to each county marker. The points on the map are also color coded to show the differences between counties at a glance. The full interactive map is available below the screenshot.
 ![alt text](https://user-images.githubusercontent.com/118316277/204187013-b77d49bd-58d8-453a-9734-4d5799895357.png)
-image.png?raw=true)
 https://www.google.com/maps/d/u/0/edit?mid=1DnlwG0TQu0GX3HVpKuki7unlQf7LM2k&usp=sharing
 
 The table with the data used for the map above can be found here:
